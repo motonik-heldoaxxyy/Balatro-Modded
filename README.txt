@@ -1,7 +1,7 @@
 # Skibidi Balatro
 
 **Made by:**  
-Your Name
+Devin
 
 ## Features
 
@@ -175,4 +175,4 @@ This mod is purely for fun.
 
 ---
 
-For any issues or feedback, feel free to reach out to **<Your Discord Name>**.
+For any issues or feedback, feel free to reach out to **Devin**.
